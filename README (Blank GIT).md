@@ -13,3 +13,5 @@
 
 #5 Added "prestart": "npm run webpack" in package.json
 
+#6 Made changes to index.html with comments to link the manifest and bundle.js files
+
